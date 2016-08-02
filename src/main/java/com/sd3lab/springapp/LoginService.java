@@ -1,4 +1,4 @@
-package webapp;
+package com.sd3lab.springapp;
 
 /**
  * Created by ahmad.hassan on 27/07/16.

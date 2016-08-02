@@ -1,4 +1,4 @@
-package webapp;
+package com.sd3lab.springapp;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
